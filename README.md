@@ -1,5 +1,5 @@
-# botst4rz
-BOT WHATSAPP HP BINTANG NUR PRADANA
+# Lucya Bot
+Bot WhatsApp Sendi Rizqy Pratama
 
 ### Alat dan Bahan
 Siapin alat dan bahannya.
